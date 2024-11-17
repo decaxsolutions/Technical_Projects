@@ -1,5 +1,6 @@
 # Table of contents
 
-* [AWS IAM](README.md)
-  * [Project](aws-iam/project.md)
-  * [Reference](aws-iam/reference.md)
+* [Wecome!](README.md)
+  * [AWS IAM](wecome/aws-iam/README.md)
+    * [Project](wecome/aws-iam/project.md)
+    * [Reference](wecome/aws-iam/reference.md)
