@@ -5,7 +5,7 @@ description: >-
   applications.
 ---
 
-# AWS IAM Project
+# Project
 
 ## **Detailed Project Outline**
 
@@ -149,5 +149,3 @@ description: >-
       ```
 * **Appendix C**: User Guide
   * How-to steps for managing IAM roles and users.
-* **Appendix D**: Security Assessment Report Template
-  * Checklists and reporting formats.
